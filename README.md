@@ -1,2 +1,2 @@
 # Projects
-Sample projects from packet tracer
+Static Routing Lab using Cisco Packet Tracer
