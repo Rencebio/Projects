@@ -1,3 +1,2 @@
-# Projects
-Static Routing Lab using Cisco Packet Tracer
-## Project overview
+# Network Labs
+
